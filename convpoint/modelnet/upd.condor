@@ -1,0 +1,16 @@
+### DEFAULT SETTINGS #########################
+#rank           = 
+priority        = 0
+notification    = Never
+notify_user     = 
+getenv          = True
+#environment    = HOME=¡¥/public/zebanghe2/miniconda/envs/pointcloud/¡¦
+### JOB ###########################
+executable      = modelnets.sh
+arguments       = 
+input           =
+output          = modelnets.out
+error           = modelnets.err
+log             = modelnets.log
+
+queue

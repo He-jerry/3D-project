@@ -1,0 +1,2 @@
+#! /usr/bin/env sh
+python modelnet_classif.py --rootdir /public/zebanghe2/convpoint/ConvPointmaster/modelnet40_ply_hdf5_2048/ --savedir /public/zebanghe2/convpoint/ConvPointmaster/examples/modelnet/saves/ --npoints 2048
